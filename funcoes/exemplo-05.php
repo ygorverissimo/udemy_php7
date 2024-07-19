@@ -25,5 +25,5 @@ echo $a;
 */
 
 /*
-a diferença entre variável global e parâmetro por referência é que a variável global é enxergáda em qualquer parte do código, enquanto o parâmetro por referência só é enxergado dentro da função
+a diferença entre variável global e parâmetro por referência é que a variável global é enxergada em qualquer parte do código, enquanto o parâmetro por referência só é enxergado dentro da função
 */
