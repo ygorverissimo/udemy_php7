@@ -6,7 +6,7 @@ define("BANCO_DE_DADOS", [
     'root',
     'password',
     'test'
-], true); //define que a constante vai ser case insensitive (o default é ser case sensitive)
+], /*true*/); //colcoar true define que a constante vai ser case insensitive (o default é ser case sensitive)
 //não precisa colocar o true, pois é boa prática padronizar constante com letras maiúsculas
 
 print_r(BANCO_DE_DADOS);
