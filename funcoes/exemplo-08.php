@@ -12,6 +12,6 @@ echo var_dump(soma(1,2,3,4,5));
 echo "<br>";
 echo soma (10, 15, 20, 25, 30);
 echo "<br>";
-//nesse exemplo, se enviamos parâmetros que não são inteiros como na função, o php considera o número como inteiro antes do ponto decimal
+ //nesse exemplo, se enviamos parâmetros que não são inteiros e no parâmetro da função é inteiro, o php considera o número como inteiro antes do ponto decimal
 echo var_dump(soma (2, 3.2, 4, 5.7, 6));
 echo "<br>";
